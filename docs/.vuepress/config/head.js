@@ -1,12 +1,12 @@
 // head
 module.exports = [
   // 注入到页面<head> 中的标签，格式[tagName, { attrName: attrValue }, innerHTML?]
-  ['link', { rel: 'icon', href: 'https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200409124835.png' }], //favicons，资源放在public文件夹
+  ['link', { rel: 'icon', href: '/img/top.png' }], //favicons，资源放在public文件夹
   [
     'meta',
     {
       name: 'keywords',
-      content: '个人技术博客,技术文档,面试,vue,python,java',
+      content: 'bigdata,面试,vue,python,java',
     },
   ],
   
