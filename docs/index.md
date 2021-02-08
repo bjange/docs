@@ -1,7 +1,7 @@
 ---
 home: true
 # heroImage: https://i.loli.net/2021/01/27/YMJb8RHlr1GnSgU.jpg
-heroImage: /img/b6.ico
+heroImage: /docs/img/b6.ico
 
 heroText: Keep struggling, keep dream-chasing!
 tagline: 生命太短暂，不要去做根本没有意义的事情。
@@ -11,13 +11,13 @@ bannerBg: none
 features: # 可选的
  - title: 
    details: 
-   imgUrl: /img/undraw_programming.svg       # 可选
+   imgUrl: /docs/img/undraw_programming.svg       # 可选
  - title: 
    details: 
-   imgUrl: /img/undraw_social_friends.svg      # 可选
+   imgUrl: /docs/img/undraw_social_friends.svg      # 可选
  - title: 
    details: 
-   imgUrl: /img/undraw_Taking_notes.svg      # 可选
+   imgUrl: /docs/img/undraw_Taking_notes.svg      # 可选
 
 postList: none
 simplePostListLength: 9
