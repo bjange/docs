@@ -2,11 +2,10 @@ module.exports = [
   {text: '首页', link: '/index/'},
   {
     text: '后端',
-    link: '',  //目录页链接，此处link是vdoing主题新增的配置项，有二级导航时，可以点击一级导航跳到目录页
+    link: '',  
+    //目录页链接，此处link是vdoing主题新增的配置项，有二级导航时，可以点击一级导航跳到目录页
     items: [
 	   // 这些link是在相应md文件定义的永久链接。另外，注意结尾是有斜杠的
-     //  java.html
-     // 注意link结尾有斜杠和没有斜杠的区别
     {text: 'Java', link: '/index/'},    
     {text: 'JVM', link: '/index/'},
     {text: '算法', link: '/index/'},
@@ -63,5 +62,6 @@ module.exports = [
   // },
   // {text: '归档', link: '/archives/'},
   {text: '归档', link: '/archives/'},
-  {text: '关于', link: '/about/'}
+  {text: '关于', link: '/about/'},
+  {text:'其它链接', link: 'https://www.baidu.com/'} // 外部链接
 ]

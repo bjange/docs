@@ -1,6 +1,8 @@
 ---
 home: true
-heroImage: /img/logo.jpg
+# heroImage: https://i.loli.net/2021/01/27/YMJb8RHlr1GnSgU.jpg
+heroImage: /img/b6.ico
+
 heroText: Keep struggling, keep dream-chasing!
 tagline: 生命太短暂，不要去做根本没有意义的事情。
 actionText:  Start →
@@ -22,28 +24,18 @@ simplePostListLength: 9
 
 ---
 
-<!-- 
-
-<div style="text-align: center;">
-
-![](https://i.loli.net/2021/01/25/6QjFbzApiO5JIUK.jpg)
+<div  style="text-align: center;">
+<img class=no-zoom src="https://i.loli.net/2021/01/25/6QjFbzApiO5JIUK.jpg" alt=""  >
 <br><br>
-
-![SVG](https://svg.hamm.cn/client.svg?type=os "SVG") ![SVG](https://svg.hamm.cn/client.svg?type=broswer "SVG") ![SVG](https://svg.hamm.cn/client.svg?type=ip "SVG")
-
+<img class=no-zoom src="https://svg.hamm.cn/client.svg?type=os" alt="OS"  >
+<img class=no-zoom src="https://svg.hamm.cn/client.svg?type=broswer" alt="Broswer"  >
+<img class=no-zoom src="https://svg.hamm.cn/client.svg?type=ip" alt="IP"  >
 </div>
 
+<!-- 
+![](https://i.loli.net/2021/01/25/6QjFbzApiO5JIUK.jpg) 
+<br><br>
+![SVG](https://svg.hamm.cn/client.svg?type=os "SVG") 
+![SVG](https://svg.hamm.cn/client.svg?type=broswer "SVG") 
+![SVG](https://svg.hamm.cn/client.svg?type=ip "SVG")
 -->
-
-
-
-
-
-
-
-
-
-
-
-
-
