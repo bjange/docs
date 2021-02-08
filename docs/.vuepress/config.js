@@ -8,7 +8,7 @@ module.exports = {
 
   title: "Dylan",
   description: '技术博客,js,java,vue,python',
-  base: '/', // 格式：'/<仓库名>/'， 默认'/'
+  base: '/docs', // 格式：'/<仓库名>/'， 默认'/'
   markdown: {
     lineNumbers: true, // 代码行号
   },
